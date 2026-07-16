@@ -1,0 +1,40 @@
+*{  font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+}
+h1{
+    color: rgb(11, 225, 101);
+    text-align: center;
+}
+h2{
+    color: rgb(64, 140, 95);
+    text-align: left;
+}
+button{
+    background-color: rgb(11, 225, 101);
+    color: rgb(254, 254, 254);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+p{
+    color: rgb(13, 14, 13);
+    text-align: center;
+}
+strong{
+    color: rgb(243, 6, 6);
+}
+table,th,td{
+    border-style: solid;
+}
+ul{
+    font-size: 18px;
+    font-weight: 600;
+    background-color: chocolate;
+    text-align: justify;
+    text-justify: inter-word;
+    background:linear-gradient(rgb(255, 0, 0), rgb(255, 255, 0), rgb(0, 255, 0), rgb(0, 255, 255), rgb(0, 0, 255), rgb(255, 0, 255));
+}
